@@ -1,5 +1,6 @@
-# rotor_guide
-OpenSCAD file for 3D printed VoiceOver rotor gesture guide
+# OpenSCAD file for 3D printed VoiceOver rotor gesture guide
+
+
 ![Image of rotor guide.](guide.jpg)
 
 
