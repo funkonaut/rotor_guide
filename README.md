@@ -1,10 +1,13 @@
-# OpenSCAD file for 3D printed VoiceOver rotor gesture guide
+# 3D Printed VoiceOver Rotor Gesture Guide
+
+
+This is a repository for OpenSCAD code for a 3D printable guide to teach the VoiceOver rotor gesture for students with visual impairments that might also have fine motor deficits. 
 
 
 ![Image of rotor guide.](guide.jpg)
 
 
-# Instructions
+## Instructions
 1. Download [OpenSCAD](https://openscad.org/downloads.html)
 2. Open the file
 3. Modify the file so that it fits your students fingers and device.
@@ -13,3 +16,6 @@
 
 
 *Or skip steps 1-3 and just print the .stl file (3" diameter guide with .5" slots and .25" thickness)
+
+## To do
+Create vector file for laser cutting and write laser cutting file export and cutting instructions.
