@@ -7,7 +7,7 @@ URL: https://github.com/funkonaut/rotor_guide
 
 $fn = 300;
 h=.25;  
-e=.01; //constant term so we can preview and not see weird lines with differenes
+e=.01; //constant term so we can preview and not see weird lines with differences
 r1=1.5;
 r2=1.125; //r1-r2 is outside ring width
 r3=.625;  //r2-r3 is slot width
