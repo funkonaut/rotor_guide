@@ -3,7 +3,6 @@ Author: Chris Correll
 Date: 11/3/2021
 Description: Code for rotor gesture guide for iOS VoiceOver.
 URL: https://github.com/funkonaut/rotor_guide
-
 */
 
 $fn = 300;
